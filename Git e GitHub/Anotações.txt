@@ -1,0 +1,8 @@
+Criando um repositório no GitHub
+Selecione a opção New Repository
+Escolha um nome para o Repositório - Repository name
+Adicione uma descrição - Description
+Selecione o modo Público(Public) ou Privado(Private) conforme a sua escolha
+Se preferir selecione Add a README file para inserir uma descrição longa para o seu projeto
+Agora basta clicar em Create repository.
+Parabéns você acabou de criar seu próprio repositório!
